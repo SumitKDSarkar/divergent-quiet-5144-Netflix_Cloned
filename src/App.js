@@ -15,14 +15,14 @@ function App() {
         <Nav />
         <Banner />
         <Row 
-        title = "ZEE5 ORIGINALS" 
+        title = "Only On ZEE5" 
         fetchUrl = {requests.fetchNetFlixOriginals}
         isLargeRow = {true}
         />
-        <Row title = "Trending Now" fetchUrl = {requests.fetchTreding}/>
-        <Row title = "Top Rated" fetchUrl = {requests.fetchTopRated}/>
-        <Row title = "Action Movies" fetchUrl = {requests.fetchActionMovies}/>
-        <Row title = "Horror Movies" fetchUrl = {requests.fetchHorroMovies}/>
+        <Row title = "Latest & Trending" fetchUrl = {requests.fetchTreding}/>
+        <Row title = "ZEE5 Original Blockbusters" fetchUrl = {requests.fetchTopRated}/>
+        <Row title = "Popular Action Movies" fetchUrl = {requests.fetchActionMovies}/>
+        <Row title = "Popular Horror Movies" fetchUrl = {requests.fetchHorroMovies}/>
         <Row title = "Romance Movies" fetchUrl = {requests.fetchRomanticMovies}/>
         <Row title = "Documentaries" fetchUrl = {requests.fetchDocumentaries}/>
     </div>

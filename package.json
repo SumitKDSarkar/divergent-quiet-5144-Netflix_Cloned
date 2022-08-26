@@ -1,5 +1,5 @@
 {
-  "name": "netflix-clone",
+  "name": "ZEE5-clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,6 +15,7 @@
     "movie-trailer": "^2.0.6",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-router-dom": "^6.3.0",
     "react-scripts": "4.0.0",
     "react-youtube": "^7.13.0",
     "web-vitals": "^0.2.4"

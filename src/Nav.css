@@ -4,7 +4,7 @@
   width: 100%;
   display: flex;
   padding: 20px;
-  height: 40px;
+  height: 30px;
   z-index: 1;
   justify-content: space-between;
   /*Animation*/
@@ -13,13 +13,13 @@
 }
 
 .nav__black {
-  background-color: #0F0617;
+  background-color: #111;
 }
 
 .nav__logo {
   position: fixed;
   left: 20;
-  width: 60px;
+  width: 80px;
   object-fit: contain;
 }
 
@@ -28,73 +28,4 @@
   position: fixed;
   right: 20px;
   object-fit: contain;
-}
-.seconddiv{
-  /* border: 1px solid red; */
-  display: flex;
-  width: 30%;
-  height: auto;
-  margin-left:7%;
-  gap: 20px;
-  margin-top: 1%;
-  
-
-}
-.Home{
-  color: #FFFFFF;
-  font-size: 14px;
-}
-.Home:hover{
-  text-decoration: underline;
-  cursor: pointer;
-}
-.trddiv{
-  /* border: 1px solid red; */
-  width: 15%;
-  height: auto;
-
-  justify-content: space-around ;
-}
-.login{
-  /* display: flex; */
-  background-color: #0F0617;
-  color: #FFFFFF;
-  border: 1px solid #FFFFFF;
-  padding: 10px 12px 10px 12px ;
-  font-size: 14px;
-  border-radius: 8px;
-  margin-right: 10px;
-}
-.login:hover{
-  cursor: pointer;
-  background-color: #FFFFFF;
-  color: #0F0617;
-}
-.buy{
-  /* display: flex; */
-  background-color: #8230C6;
-  color: #FFFFFF;
-  border: 1px solid #8230C6;
-  padding: 10px 12px 10px 12px ;
-  font-size: 14px;
-  border-radius: 8px;
-  margin-left: 10px;
-}
-.buy:hover{
-  cursor: pointer;
-  background-color:#4e078b;
-  border: 1px solid #4e078b;
-  
-}
-.searchbox{
-  /* border: 1px solid red; */
-  width: 25%;
-  height: 40px;
-}
-.search{
-  width: 100%;
-  height: 100%;
-  border:1px solid #FFFFFF;
-  border-radius: 8px;
-  background-color:transparent;
 }

@@ -12,7 +12,7 @@ This is  an OTT platform that provides TV and Movie content. It is a clone of Ne
 ## Screenshots
 
 
-<a href="#"><img  width="100%" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZuzHnbhKjZPT1dEyeK2w4Tt1dmEMZQLJtWQttzhw-&s" height="175px"/></a>
+<a href="#"><img  width="100%" height="auto" src="https://www.nasdaq.com/sites/acquia.prod/files/styles/720x400/public/image/9087dec94b9627d905f4d4e3eee71221cb4b007d_netflixscreen_large.png?itok=0Zd76BAe" height="175px"/></a>
 
 
 
